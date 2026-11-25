@@ -1,0 +1,11 @@
+com\mycompany\springapp\business\repositories\ProductRepository.class
+com\mycompany\springapp\business\services\PriceIncrease.class
+com\mycompany\springapp\business\services\JPAProductManager.class
+com\mycompany\springapp\web\controllers\InventoryController.class
+com\mycompany\springapp\business\entities\Product.class
+com\mycompany\springapp\business\SpringappBusinessConfig.class
+com\mycompany\springapp\SpringappWebApplicationInitializer.class
+com\mycompany\springapp\business\services\SimpleProductManager.class
+com\mycompany\springapp\web\controllers\PriceIncreaseFormController.class
+com\mycompany\springapp\web\SpringappWebConfig.class
+com\mycompany\springapp\business\services\ProductManager.class

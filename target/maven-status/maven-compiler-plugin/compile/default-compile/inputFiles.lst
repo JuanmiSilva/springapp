@@ -1,0 +1,11 @@
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\business\entities\Product.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\business\repositories\ProductRepository.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\business\services\JPAProductManager.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\business\services\PriceIncrease.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\business\services\ProductManager.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\business\services\SimpleProductManager.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\business\SpringappBusinessConfig.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\SpringappWebApplicationInitializer.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\web\controllers\InventoryController.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\web\controllers\PriceIncreaseFormController.java
+C:\Users\juanm\OneDrive\Desktop\DAW\DWES\springapp\src\main\java\com\mycompany\springapp\web\SpringappWebConfig.java
